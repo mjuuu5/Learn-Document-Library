@@ -1,4 +1,4 @@
-# HVAC Document Library
+# Document Library
 
 A public GitHub repository to store categorized PDF documents for HVAC and related topics.
 
